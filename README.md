@@ -17,3 +17,6 @@
 - add files `touch app.ts config.ts routes.ts setupDatabase.ts setupServer.ts`
 
 - create folder structure `mkdir -p features shared/globals shared/services/db shared/services/emails shared/services/queues shared/services/redis shared/sockets shared/workers`
+
+- install express `npm i express && npm i @types/express -D`
+  
